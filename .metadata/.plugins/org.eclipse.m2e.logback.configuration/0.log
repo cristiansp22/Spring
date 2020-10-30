@@ -1126,3 +1126,19 @@
 2020-10-30 09:09:11,273 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2020-10-30 09:09:11,274 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2020-10-30 09:09:11,276 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-30 09:09:11,276 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aluno.DSN5131112167\Documents\workspace-spring-tool-suite-4-4.8.1.RELEASE\cusoSpring\src\test\resources
+2020-10-30 09:58:58,484 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-30 09:58:58,506 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-30 09:58:58,509 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-30 09:58:58,511 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-30 09:58:58,511 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aluno.DSN5131112167\Documents\workspace-spring-tool-suite-4-4.8.1.RELEASE\cusoSpring\src\test\resources
+2020-10-30 10:07:26,968 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-30 10:07:26,971 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-30 10:07:26,974 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-30 10:07:26,976 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-30 10:07:26,976 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aluno.DSN5131112167\Documents\workspace-spring-tool-suite-4-4.8.1.RELEASE\cusoSpring\src\test\resources
+2020-10-30 10:09:33,912 [Worker-33: Launching cusoSpring - CusoSpringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-30 10:09:33,915 [Worker-33: Launching cusoSpring - CusoSpringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-30 10:09:33,919 [Worker-33: Launching cusoSpring - CusoSpringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-30 10:09:33,921 [Worker-33: Launching cusoSpring - CusoSpringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-30 10:09:33,921 [Worker-33: Launching cusoSpring - CusoSpringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aluno.DSN5131112167\Documents\workspace-spring-tool-suite-4-4.8.1.RELEASE\cusoSpring\src\test\resources
